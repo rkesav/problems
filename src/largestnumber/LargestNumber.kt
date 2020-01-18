@@ -6,6 +6,7 @@ class LargestNumber {
         val map = mutableMapOf<Int, IntArray>()
 
         // Implement comparator by concatenating two number string in both orders and comparing each other
+        return ""
     }
 }
 
